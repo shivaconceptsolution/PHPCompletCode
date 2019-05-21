@@ -1,0 +1,15 @@
+<?php
+
+function fun1()
+{
+	
+	echo "welcome in function concept";
+}
+
+fun1()
+
+
+
+
+
+?>

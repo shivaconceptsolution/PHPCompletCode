@@ -1,0 +1,23 @@
+how we design web page:-
+
+
+1 create style.css in application root 
+
+
+2 create controller
+
+
+3 create three different view file
+
+header.php
+home.php
+footer.php
+
+
+4 call these all view files into controller
+
+5  open autoload.php under config folder and add url helper.
+
+
+
+
